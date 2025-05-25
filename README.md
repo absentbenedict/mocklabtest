@@ -9,4 +9,6 @@ It includes unit tests written with PyTest and demonstrates basic Git operations
 from Lab3 import is_palindrome
 
 print(is_palindrome("madam"))  # Output: 1
+```
+![palindrome example](https://github.com/absentbenedict/mocklabtest/blob/master/palindrome.jpeg?raw=true)
 
